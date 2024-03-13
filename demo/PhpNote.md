@@ -96,3 +96,5 @@ doSomething("string", function($arg) {
 array_filter($the_array, function)
 
 then we can call do something
+
+var_dump
