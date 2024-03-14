@@ -15,4 +15,5 @@
                 We are here About us
             </div>
         </main>
+        
 <?php require("partials/footer.php"); ?>
