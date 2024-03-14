@@ -97,4 +97,6 @@ array_filter($the_array, function)
 
 then we can call do something
 
-var_dump
+var_dump  //to dump objects like console log to the html
+
+Globals $_GET, $_SERVER
